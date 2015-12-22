@@ -1,0 +1,27 @@
+{
+  "name": "dot-key",
+  "description": "access an object via a (dotted) key",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index-test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UXtemple/dot-key.git"
+  },
+  "keywords": [
+    "dot",
+    "key",
+    "access",
+    "object"
+  ],
+  "author": "Dario Javier Cravero <dario@uxtemple.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UXtemple/dot-key/issues"
+  },
+  "homepage": "https://github.com/UXtemple/dot-key#readme",
+  "devDependencies": {
+    "tape": "^4.2.2"
+  }
+}
